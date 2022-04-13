@@ -8,6 +8,8 @@ public class MyTest {
         System.out.println("hello,heihei");
         System.out.println("hello,aice");
         System.out.println("hello,ppt");
+        System.out.println("hello,push");
+
 
 
     }
