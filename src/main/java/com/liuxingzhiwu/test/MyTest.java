@@ -9,6 +9,7 @@ public class MyTest {
         System.out.println("hello,aice");
         System.out.println("hello,ppt");
         System.out.println("hello,push");
+        System.out.println("hello,ssh-push");
 
 
 
